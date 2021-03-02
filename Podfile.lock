@@ -1,0 +1,23 @@
+PODS:
+  - Masonry (1.1.0)
+  - MYYLaunchVC (0.1.0):
+    - Masonry
+
+DEPENDENCIES:
+  - MYYLaunchVC (from `Lib/MYYLaunchVC`)
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+
+EXTERNAL SOURCES:
+  MYYLaunchVC:
+    :path: Lib/MYYLaunchVC
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MYYLaunchVC: 53091b8c1f25dee512ae701744f27bc52f4cc661
+
+PODFILE CHECKSUM: 07a3f93bc56606550f7e30925c7e307840271814
+
+COCOAPODS: 1.10.1
